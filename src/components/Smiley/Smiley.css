@@ -1,0 +1,11 @@
+.Smiley {
+    width: 40px;
+    height: 40px;
+    border: 1px blue solid;
+    background-color: aliceblue;    
+}
+
+img {
+    max-width:100%;
+    max-height:100%;
+}

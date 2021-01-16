@@ -1,0 +1,11 @@
+.ScoreBoard {
+    border: 2px solid grey;
+    background-color: whitesmoke;
+    height: 40px;
+    width: 80px;
+    font-family: SevenSegment;
+    font-size: large;
+    line-height: 40px;
+    padding: 5px;
+    direction: rtl;
+}
